@@ -1,0 +1,29 @@
+{
+  "name": "angular-d3-collapsible-tree",
+  "version": "0.1.0",
+  "homepage": "https://github.com/RenderTeam/angular-d3-collapsible-tree",
+  "authors": [
+    "Ardroz <darr.0725@gmail.com>",
+    "Chemonky <luricardorod@gmail.com>"
+  ],
+  "description": "Angular d3-collapsible-tree",
+  "main": "angular-d3-collapsible-tree.js",
+  "keywords": [
+    "angular",
+    "d3",
+    "collapsible",
+    "Tree"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.18",
+    "d3": "~3.4.11"
+  }
+}

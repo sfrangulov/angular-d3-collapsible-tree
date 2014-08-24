@@ -1,0 +1,16 @@
+{
+  "name": "angular-d3-collapsible-tree",
+  "version": "0.0.0",
+  "description": "Angular d3 collapsible tree",
+  "main": "angular-d3-collapsible-tree.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jade": "^0.12.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "^0.11.2",
+    "grunt-contrib-uglify": "^0.5.0"
+  },
+  "homepage": "https://github.com/RenderTeam/angular-d3-collapsible-tree"
+}
