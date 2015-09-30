@@ -12,5 +12,5 @@
     "grunt-contrib-less": "^0.11.2",
     "grunt-contrib-uglify": "^0.5.0"
   },
-  "homepage": "https://github.com/RenderTeam/angular-d3-collapsible-tree"
+  "homepage": "https://github.com/sfrangulov/angular-d3-collapsible-tree"
 }
